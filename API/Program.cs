@@ -1,3 +1,5 @@
+using API.Helpers;
+using API.Middleware;
 using Core.Interfaces;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
@@ -12,6 +14,7 @@ builder.Services.AddAuthorization();
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>(); // Đăng ký dịch vụ 
 builder.Services.AddScoped(typeof(IGenericRepository<>), (typeof(GenericRepository<>))); // Đăng ký dịch vụ GenericRepository
+builder.Services.AddAutoMapper(typeof(MappingProfiles)); // Đăng ký dịch vụ AutoMapper
 builder.Services.AddControllers(); // Đăng ký dịch vụ Controllers
 
 builder.Services.AddDbContext<StoreContext>(options =>
@@ -21,12 +24,13 @@ var app = builder.Build();
 
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.MapOpenApi();
-}
+app.UseMiddleware<ExceptionMiddleware>(); // Sử dụng middleware xử lý lỗi toàn cục
+app.UseStatusCodePagesWithReExecute("/errors/{0}"); // Điều hướng các lỗi sang controller ErrorsController
+
 app.UseHttpsRedirection();
 
+app.UseRouting();
+app.UseStaticFiles();
 app.UseAuthorization();
 app.MapControllers();
 
