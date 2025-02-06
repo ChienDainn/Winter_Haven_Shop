@@ -164,3 +164,6 @@ C:\Users\Admin\Desktop\Skinet_Full\skinet\API\obj\Debug\net9.0\compressed\zzyd6w
 C:\Users\Admin\Desktop\Skinet_Full\skinet\API\obj\Debug\net9.0\compressed\nhpan8zn3p-wxwxrej6pw.gz
 C:\Users\Admin\Desktop\Skinet_Full\skinet\API\obj\Debug\net9.0\compressed\1dpm1p8bmc-17syz0loi6.gz
 C:\Users\Admin\Desktop\Skinet_Full\skinet\API\obj\Debug\net9.0\compressed\eb74hemxa6-g7nve8g003.gz
+C:\Users\Admin\Desktop\Skinet_Full\skinet\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Skinet_Full\skinet\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Skinet_Full\skinet\API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
