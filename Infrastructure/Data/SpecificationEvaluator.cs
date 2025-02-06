@@ -18,7 +18,15 @@ namespace Infrastructure.Data
             {
                 query = query.Where(spec.Criteria);
             }
-
+            // Áp dụng điều kiện lọc (WHERE) nếu có
+            if (spec.OrderBy != null)
+            {
+                query = query.OrderBy(spec.OrderBy);
+            }
+            if (spec.OrderByDescending != null)
+            {
+                query = query.OrderByDescending(spec.OrderByDescending);
+            }
 
             // Áp dụng Include để tải dữ liệu liên quan (bảng liên kết)
             query = spec.Includes.Aggregate(query, (current, include) => current.Include(include));

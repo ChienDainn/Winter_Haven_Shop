@@ -24,6 +24,7 @@ builder.Services.AddControllers(); // Đăng ký dịch vụ Controllers
 
 builder.Services.AddDbContext<StoreContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 builder.Services.AddApplicationServices(); // Đăng ký dịch vụ ApplicationServices
 builder.Services.AddSwaggerDocumentation(); // Đăng ký dịch vụ ApplicationServices
 
@@ -34,7 +35,8 @@ var app = builder.Build();
 app.UseMiddleware<ExceptionMiddleware>(); // Sử dụng middleware xử lý lỗi toàn cục
 app.UseStatusCodePagesWithReExecute("/errors/{0}"); // Điều hướng các lỗi sang controller ErrorsController
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
+
 
 app.UseRouting();
 app.UseStaticFiles();
