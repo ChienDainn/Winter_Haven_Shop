@@ -27,6 +27,10 @@ namespace Infrastructure.Data
             {
                 query = query.OrderByDescending(spec.OrderByDescending);
             }
+            if (spec.IsPagingEnabled)
+            {
+                query = query.Skip(spec.Skip).Take(spec.Take);
+            }
 
             // Áp dụng Include để tải dữ liệu liên quan (bảng liên kết)
             query = spec.Includes.Aggregate(query, (current, include) => current.Include(include));

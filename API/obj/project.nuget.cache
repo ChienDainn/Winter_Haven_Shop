@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+6g8d0GzscA=",
+  "dgSpecHash": "aN6fkwSARjU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

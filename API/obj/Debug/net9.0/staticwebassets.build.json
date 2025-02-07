@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mq/ABgsNRSItJJ8v+qxY0Fw1pDKgdFZohVO8r+YcUIA=",
+  "Hash": "cFQ6EO9GGMMBoAKJIe+FAtRPOj86SghsoCFE9Qnow/A=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "920.1882ac29d9f06436#[.{fingerprint=8u84i2ubmn}]?.js.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\920.1882ac29d9f06436.js",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\920.1882ac29d9f06436.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "eypxy1ovdy",
       "Integrity": "pkeSt6eGkGNZpH0Dm+gtaymlJ+6QxpJEGTFZ8+Zoo2o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\920.1882ac29d9f06436.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\920.1882ac29d9f06436.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "index#[.{fingerprint=17syz0loi6}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "o760b1qfmo",
       "Integrity": "dA74QrUSmFBY+b+iDd/dJz4akxxFdMGx5XWBYPd8YDE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "481.9a797fbd8f5fd2a9#[.{fingerprint=dfdpm12w7a}]?.js.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "o8loujoe9u",
       "Integrity": "eHSBiLY5HofI/tpiOePtF6PJ0rqclWDmjBzn7zkL6LM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "333.d3c995fcef704013#[.{fingerprint=fwngavbwu2}]?.js.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\333.d3c995fcef704013.js",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\333.d3c995fcef704013.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "mhmq077thr",
       "Integrity": "pt9uteMSVF3m/8fIsbibHrHvdHRCJfSr9IEfQjr0MkQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\333.d3c995fcef704013.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\333.d3c995fcef704013.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "main.5a96f0f8b6a1e6e1#[.{fingerprint=j4inkzrecm}]?.js.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "33624z2rea",
       "Integrity": "saReNO+Skufe0BtxFCZI8rKU8TmZGojEizZ6jMdDLeU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "favicon#[.{fingerprint=nf69tc4d23}]?.ico.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\favicon.ico",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "kwdai5zzrg",
       "Integrity": "HCW5VjPFvbGBmzZGw+QlcVdvgVcutdQMNttO3d5X7pM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "polyfills.f91a65f870354b2e#[.{fingerprint=hgnk4s5st6}]?.js.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "np4nxb15oi",
       "Integrity": "ZWumLz9FOpjQ2SC0TRSi5gKdpmn8Hq7MfCrLt5N6fi8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\polyfills.f91a65f870354b2e.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\polyfills.f91a65f870354b2e.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "styles.e03f01a639544ed3#[.{fingerprint=g7nve8g003}]?.css.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\styles.e03f01a639544ed3.css",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\styles.e03f01a639544ed3.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "cy0xrnv90l",
       "Integrity": "FGpnbzTC3CQfCq/U+OyOqW9v4D4UKXrYZ0iJtSx3rm0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\styles.e03f01a639544ed3.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\styles.e03f01a639544ed3.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.da909aa098b0ee2d#[.{fingerprint=wxwxrej6pw}]?.svg.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "a35y95bdng",
       "Integrity": "uuQVEoK5NE3hlhMtRoFSifxm8ynqDdnAlUFxMdfznKg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "187.3f89f8dda6e8a837#[.{fingerprint=sg4gbhlu1m}]?.js.gz",
       "AssetKind": "All",
@@ -217,20 +217,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ssmkcu2w97",
       "Integrity": "lGsTIl/v7ouU6wtYqPuq3L0X5H2M/40TwSmYRKsC3MA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\187.3f89f8dda6e8a837.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\187.3f89f8dda6e8a837.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "common.bd884877f7f0ba29#[.{fingerprint=u2p7i2wpke}]?.js.gz",
       "AssetKind": "All",
@@ -238,20 +238,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\common.bd884877f7f0ba29.js",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\common.bd884877f7f0ba29.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "jnjlr6rky6",
       "Integrity": "QSa/3a38Tz3qZ5CayB1vA9JED73fOiYp2Tv3ADmnbEQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\common.bd884877f7f0ba29.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\common.bd884877f7f0ba29.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "runtime.1a36a8c8176a89a5#[.{fingerprint=iussd3dflw}]?.js.gz",
       "AssetKind": "All",
@@ -259,20 +259,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "6s6rztdtac",
       "Integrity": "6v3buPkFqcKNXG07eShj+JBC+Vt7sR+Pp0r4ms1ThvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "207.94788854e2426271#[.{fingerprint=x2tdt331l1}]?.js.gz",
       "AssetKind": "All",
@@ -280,20 +280,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\207.94788854e2426271.js",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\207.94788854e2426271.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "zibcnoll2s",
       "Integrity": "pdOQw59Q6rfOhkRkMP8S1C4eCStYRHVeJUUryjH1mCo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\207.94788854e2426271.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\207.94788854e2426271.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/API",
       "RelativePath": "3rdpartylicenses#[.{fingerprint=sqf9z7vl62}]?.txt.gz",
       "AssetKind": "All",
@@ -301,20 +301,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\3rdpartylicenses.txt",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "xtdk5dx2we",
       "Integrity": "BYw+PRpeJzB3nwma7fRr1250oCb1S/ic2SlAGLS/4Xk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\3rdpartylicenses.txt"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "187.3f89f8dda6e8a837#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\187.3f89f8dda6e8a837.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\207.94788854e2426271.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\207.94788854e2426271.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "207.94788854e2426271#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\207.94788854e2426271.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\333.d3c995fcef704013.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\333.d3c995fcef704013.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "333.d3c995fcef704013#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\333.d3c995fcef704013.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\3rdpartylicenses.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "3rdpartylicenses#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "481.9a797fbd8f5fd2a9#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\481.9a797fbd8f5fd2a9.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\920.1882ac29d9f06436.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\920.1882ac29d9f06436.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "920.1882ac29d9f06436#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\920.1882ac29d9f06436.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\hero1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\hero1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/hero1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hero1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\hero2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\hero2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/hero2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hero2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\hero3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\hero3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/hero3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hero3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\placeholder.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/placeholder#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\placeholder.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\common.bd884877f7f0ba29.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\common.bd884877f7f0ba29.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "common.bd884877f7f0ba29#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\common.bd884877f7f0ba29.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.2b13baa7dd4f54c9#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.8a7cb27d142e3e19#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.cf011583fb81df9f#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.da909aa098b0ee2d#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.e9955780856cf8aa#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-ang1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-ang2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-core2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-redis1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-redis1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-code1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-code1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-code2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-code2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-react2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\hat-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hat-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\hat-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hat-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\hat-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hat-react2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-ang1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-ang2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-core2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-ts1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-ts1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "main.5a96f0f8b6a1e6e1#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\main.5a96f0f8b6a1e6e1.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "polyfills.f91a65f870354b2e#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\polyfills.f91a65f870354b2e.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "runtime.1a36a8c8176a89a5#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\runtime.1a36a8c8176a89a5.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\styles.e03f01a639544ed3.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\styles.e03f01a639544ed3.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "styles.e03f01a639544ed3#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1175,7 +1175,7 @@
   "Endpoints": [
     {
       "Route": "187.3f89f8dda6e8a837.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1198,7 +1198,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1230,7 +1230,7 @@
     },
     {
       "Route": "187.3f89f8dda6e8a837.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1251,7 +1251,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1267,7 +1267,7 @@
     },
     {
       "Route": "187.3f89f8dda6e8a837.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1288,7 +1288,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1312,7 +1312,7 @@
     },
     {
       "Route": "187.3f89f8dda6e8a837.sg4gbhlu1m.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1335,7 +1335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1375,7 +1375,7 @@
     },
     {
       "Route": "187.3f89f8dda6e8a837.sg4gbhlu1m.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1396,7 +1396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1420,7 +1420,7 @@
     },
     {
       "Route": "187.3f89f8dda6e8a837.sg4gbhlu1m.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\op2d1cs26x-sg4gbhlu1m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1441,7 +1441,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1473,7 +1473,7 @@
     },
     {
       "Route": "207.94788854e2426271.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1496,7 +1496,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1528,7 +1528,7 @@
     },
     {
       "Route": "207.94788854e2426271.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\207.94788854e2426271.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\207.94788854e2426271.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1549,7 +1549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1565,7 +1565,7 @@
     },
     {
       "Route": "207.94788854e2426271.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1586,7 +1586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1610,7 +1610,7 @@
     },
     {
       "Route": "207.94788854e2426271.x2tdt331l1.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1633,7 +1633,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1673,7 +1673,7 @@
     },
     {
       "Route": "207.94788854e2426271.x2tdt331l1.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\207.94788854e2426271.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\207.94788854e2426271.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1694,7 +1694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1718,7 +1718,7 @@
     },
     {
       "Route": "207.94788854e2426271.x2tdt331l1.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\xkb5vara9x-x2tdt331l1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1739,7 +1739,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1771,7 +1771,7 @@
     },
     {
       "Route": "333.d3c995fcef704013.fwngavbwu2.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1794,7 +1794,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1834,7 +1834,7 @@
     },
     {
       "Route": "333.d3c995fcef704013.fwngavbwu2.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\333.d3c995fcef704013.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\333.d3c995fcef704013.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1855,7 +1855,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1879,7 +1879,7 @@
     },
     {
       "Route": "333.d3c995fcef704013.fwngavbwu2.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1900,7 +1900,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1932,7 +1932,7 @@
     },
     {
       "Route": "333.d3c995fcef704013.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1955,7 +1955,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1987,7 +1987,7 @@
     },
     {
       "Route": "333.d3c995fcef704013.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\333.d3c995fcef704013.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\333.d3c995fcef704013.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2008,7 +2008,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2024,7 +2024,7 @@
     },
     {
       "Route": "333.d3c995fcef704013.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\5i312foyzm-fwngavbwu2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2045,7 +2045,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2069,7 +2069,7 @@
     },
     {
       "Route": "3rdpartylicenses.sqf9z7vl62.txt",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2092,7 +2092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2132,7 +2132,7 @@
     },
     {
       "Route": "3rdpartylicenses.sqf9z7vl62.txt",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\3rdpartylicenses.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2153,7 +2153,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2177,7 +2177,7 @@
     },
     {
       "Route": "3rdpartylicenses.sqf9z7vl62.txt.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2198,7 +2198,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2230,7 +2230,7 @@
     },
     {
       "Route": "3rdpartylicenses.txt",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2253,7 +2253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2285,7 +2285,7 @@
     },
     {
       "Route": "3rdpartylicenses.txt",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\3rdpartylicenses.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2306,7 +2306,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2322,7 +2322,7 @@
     },
     {
       "Route": "3rdpartylicenses.txt.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\zzyd6wgwl5-sqf9z7vl62.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2343,7 +2343,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2367,7 +2367,7 @@
     },
     {
       "Route": "481.9a797fbd8f5fd2a9.dfdpm12w7a.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2390,7 +2390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2430,7 +2430,7 @@
     },
     {
       "Route": "481.9a797fbd8f5fd2a9.dfdpm12w7a.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2451,7 +2451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2475,7 +2475,7 @@
     },
     {
       "Route": "481.9a797fbd8f5fd2a9.dfdpm12w7a.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2496,7 +2496,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2528,7 +2528,7 @@
     },
     {
       "Route": "481.9a797fbd8f5fd2a9.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2551,7 +2551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2583,7 +2583,7 @@
     },
     {
       "Route": "481.9a797fbd8f5fd2a9.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2604,7 +2604,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2620,7 +2620,7 @@
     },
     {
       "Route": "481.9a797fbd8f5fd2a9.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\4xfml7b43f-dfdpm12w7a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2641,7 +2641,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2665,7 +2665,7 @@
     },
     {
       "Route": "920.1882ac29d9f06436.8u84i2ubmn.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2688,7 +2688,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2728,7 +2728,7 @@
     },
     {
       "Route": "920.1882ac29d9f06436.8u84i2ubmn.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\920.1882ac29d9f06436.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\920.1882ac29d9f06436.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2749,7 +2749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2773,7 +2773,7 @@
     },
     {
       "Route": "920.1882ac29d9f06436.8u84i2ubmn.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2794,7 +2794,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2826,7 +2826,7 @@
     },
     {
       "Route": "920.1882ac29d9f06436.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2849,7 +2849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2881,7 +2881,7 @@
     },
     {
       "Route": "920.1882ac29d9f06436.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\920.1882ac29d9f06436.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\920.1882ac29d9f06436.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2902,7 +2902,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2918,7 +2918,7 @@
     },
     {
       "Route": "920.1882ac29d9f06436.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\0b8hau8cud-8u84i2ubmn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2939,7 +2939,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2963,7 +2963,7 @@
     },
     {
       "Route": "assets/images/hero1.9g8nky98ym.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\hero1.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\hero1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2984,7 +2984,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3008,7 +3008,7 @@
     },
     {
       "Route": "assets/images/hero1.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\hero1.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\hero1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3029,7 +3029,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3045,7 +3045,7 @@
     },
     {
       "Route": "assets/images/hero2.9em09a7zx9.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\hero2.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\hero2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3066,7 +3066,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3090,7 +3090,7 @@
     },
     {
       "Route": "assets/images/hero2.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\hero2.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\hero2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3111,7 +3111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3127,7 +3127,7 @@
     },
     {
       "Route": "assets/images/hero3.gx8rvylj2y.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\hero3.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\hero3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3148,7 +3148,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3172,7 +3172,7 @@
     },
     {
       "Route": "assets/images/hero3.jpg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\hero3.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\hero3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3193,7 +3193,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3209,7 +3209,7 @@
     },
     {
       "Route": "assets/images/logo.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\logo.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3230,7 +3230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3246,7 +3246,7 @@
     },
     {
       "Route": "assets/images/logo.y6d1rl17od.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\logo.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3267,7 +3267,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3291,7 +3291,7 @@
     },
     {
       "Route": "assets/images/placeholder.dlbf4ut9r1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\placeholder.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\placeholder.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3312,7 +3312,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3336,7 +3336,7 @@
     },
     {
       "Route": "assets/images/placeholder.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\assets\\images\\placeholder.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\assets\\images\\placeholder.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3357,7 +3357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3373,7 +3373,7 @@
     },
     {
       "Route": "common.bd884877f7f0ba29.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3396,7 +3396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3428,7 +3428,7 @@
     },
     {
       "Route": "common.bd884877f7f0ba29.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\common.bd884877f7f0ba29.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\common.bd884877f7f0ba29.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3449,7 +3449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3465,7 +3465,7 @@
     },
     {
       "Route": "common.bd884877f7f0ba29.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3486,7 +3486,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3510,7 +3510,7 @@
     },
     {
       "Route": "common.bd884877f7f0ba29.u2p7i2wpke.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3533,7 +3533,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3573,7 +3573,7 @@
     },
     {
       "Route": "common.bd884877f7f0ba29.u2p7i2wpke.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\common.bd884877f7f0ba29.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\common.bd884877f7f0ba29.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3594,7 +3594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3618,7 +3618,7 @@
     },
     {
       "Route": "common.bd884877f7f0ba29.u2p7i2wpke.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\pkhpau1rxz-u2p7i2wpke.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3639,7 +3639,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3671,7 +3671,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3694,7 +3694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3726,7 +3726,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3747,7 +3747,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3763,7 +3763,7 @@
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3784,7 +3784,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3808,7 +3808,7 @@
     },
     {
       "Route": "favicon.nf69tc4d23.ico",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3831,7 +3831,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3871,7 +3871,7 @@
     },
     {
       "Route": "favicon.nf69tc4d23.ico",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3892,7 +3892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3916,7 +3916,7 @@
     },
     {
       "Route": "favicon.nf69tc4d23.ico.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\6x0scahnf1-nf69tc4d23.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3937,7 +3937,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3969,7 +3969,7 @@
     },
     {
       "Route": "fontawesome-webfont.2b13baa7dd4f54c9.eot",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3990,7 +3990,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4006,7 +4006,7 @@
     },
     {
       "Route": "fontawesome-webfont.2b13baa7dd4f54c9.pz0qgnv39v.eot",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4027,7 +4027,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4051,7 +4051,7 @@
     },
     {
       "Route": "fontawesome-webfont.8a7cb27d142e3e19.ttf",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4072,7 +4072,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4088,7 +4088,7 @@
     },
     {
       "Route": "fontawesome-webfont.8a7cb27d142e3e19.yex6mt8az7.ttf",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4109,7 +4109,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4133,7 +4133,7 @@
     },
     {
       "Route": "fontawesome-webfont.cf011583fb81df9f.eyrbpue749.woff",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4154,7 +4154,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4178,7 +4178,7 @@
     },
     {
       "Route": "fontawesome-webfont.cf011583fb81df9f.woff",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4199,7 +4199,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4215,7 +4215,7 @@
     },
     {
       "Route": "fontawesome-webfont.da909aa098b0ee2d.svg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4238,7 +4238,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4270,7 +4270,7 @@
     },
     {
       "Route": "fontawesome-webfont.da909aa098b0ee2d.svg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4291,7 +4291,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4307,7 +4307,7 @@
     },
     {
       "Route": "fontawesome-webfont.da909aa098b0ee2d.svg.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4328,7 +4328,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4352,7 +4352,7 @@
     },
     {
       "Route": "fontawesome-webfont.da909aa098b0ee2d.wxwxrej6pw.svg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4375,7 +4375,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4415,7 +4415,7 @@
     },
     {
       "Route": "fontawesome-webfont.da909aa098b0ee2d.wxwxrej6pw.svg",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4436,7 +4436,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4460,7 +4460,7 @@
     },
     {
       "Route": "fontawesome-webfont.da909aa098b0ee2d.wxwxrej6pw.svg.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\nhpan8zn3p-wxwxrej6pw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4481,7 +4481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4513,7 +4513,7 @@
     },
     {
       "Route": "fontawesome-webfont.e9955780856cf8aa.2hr3gl3r5x.woff2",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4534,7 +4534,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4558,7 +4558,7 @@
     },
     {
       "Route": "fontawesome-webfont.e9955780856cf8aa.woff2",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4579,7 +4579,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4595,7 +4595,7 @@
     },
     {
       "Route": "images/products/boot-ang1.frtmm817eo.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4616,7 +4616,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4640,7 +4640,7 @@
     },
     {
       "Route": "images/products/boot-ang1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4661,7 +4661,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4677,7 +4677,7 @@
     },
     {
       "Route": "images/products/boot-ang2.l2b72r3nnt.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4698,7 +4698,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4722,7 +4722,7 @@
     },
     {
       "Route": "images/products/boot-ang2.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4743,7 +4743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4759,7 +4759,7 @@
     },
     {
       "Route": "images/products/boot-core1.owma62f65w.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4780,7 +4780,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4804,7 +4804,7 @@
     },
     {
       "Route": "images/products/boot-core1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4825,7 +4825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4841,7 +4841,7 @@
     },
     {
       "Route": "images/products/boot-core2.et6a9ksqoo.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4862,7 +4862,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4886,7 +4886,7 @@
     },
     {
       "Route": "images/products/boot-core2.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4907,7 +4907,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4923,7 +4923,7 @@
     },
     {
       "Route": "images/products/boot-redis1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-redis1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4944,7 +4944,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4960,7 +4960,7 @@
     },
     {
       "Route": "images/products/boot-redis1.w9hxokgnuo.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\boot-redis1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4981,7 +4981,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5005,7 +5005,7 @@
     },
     {
       "Route": "images/products/glove-code1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-code1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5026,7 +5026,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5042,7 +5042,7 @@
     },
     {
       "Route": "images/products/glove-code1.vfxg5rk1bq.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-code1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5063,7 +5063,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5087,7 +5087,7 @@
     },
     {
       "Route": "images/products/glove-code2.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-code2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5108,7 +5108,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5124,7 +5124,7 @@
     },
     {
       "Route": "images/products/glove-code2.r6vgnq84s8.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-code2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5145,7 +5145,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5169,7 +5169,7 @@
     },
     {
       "Route": "images/products/glove-react1.fll4p0n7rr.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5190,7 +5190,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5214,7 +5214,7 @@
     },
     {
       "Route": "images/products/glove-react1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5235,7 +5235,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5251,7 +5251,7 @@
     },
     {
       "Route": "images/products/glove-react2.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5272,7 +5272,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5288,7 +5288,7 @@
     },
     {
       "Route": "images/products/glove-react2.pnwp3ppbru.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\glove-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5309,7 +5309,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5333,7 +5333,7 @@
     },
     {
       "Route": "images/products/hat-core1.i0uvoezabx.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5354,7 +5354,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5378,7 +5378,7 @@
     },
     {
       "Route": "images/products/hat-core1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5399,7 +5399,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5415,7 +5415,7 @@
     },
     {
       "Route": "images/products/hat-react1.hh4ccoh25u.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5436,7 +5436,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5460,7 +5460,7 @@
     },
     {
       "Route": "images/products/hat-react1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5481,7 +5481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5497,7 +5497,7 @@
     },
     {
       "Route": "images/products/hat-react2.mbw62g7yl7.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5518,7 +5518,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5542,7 +5542,7 @@
     },
     {
       "Route": "images/products/hat-react2.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5563,7 +5563,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5579,7 +5579,7 @@
     },
     {
       "Route": "images/products/sb-ang1.gwbzmgtfei.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5600,7 +5600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5624,7 +5624,7 @@
     },
     {
       "Route": "images/products/sb-ang1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5645,7 +5645,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5661,7 +5661,7 @@
     },
     {
       "Route": "images/products/sb-ang2.h3w3sxuihj.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5682,7 +5682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5706,7 +5706,7 @@
     },
     {
       "Route": "images/products/sb-ang2.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5727,7 +5727,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5743,7 +5743,7 @@
     },
     {
       "Route": "images/products/sb-core1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5764,7 +5764,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5780,7 +5780,7 @@
     },
     {
       "Route": "images/products/sb-core1.sgdiotq3ie.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5801,7 +5801,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5825,7 +5825,7 @@
     },
     {
       "Route": "images/products/sb-core2.0l58ukt1bp.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5846,7 +5846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5870,7 +5870,7 @@
     },
     {
       "Route": "images/products/sb-core2.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5891,7 +5891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5907,7 +5907,7 @@
     },
     {
       "Route": "images/products/sb-react1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5928,7 +5928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5944,7 +5944,7 @@
     },
     {
       "Route": "images/products/sb-react1.v6om9glro4.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5965,7 +5965,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5989,7 +5989,7 @@
     },
     {
       "Route": "images/products/sb-ts1.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6010,7 +6010,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6026,7 +6026,7 @@
     },
     {
       "Route": "images/products/sb-ts1.uty9dayw0j.png",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\images\\products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6047,7 +6047,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6071,7 +6071,7 @@
     },
     {
       "Route": "index.17syz0loi6.html",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6094,7 +6094,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6134,7 +6134,7 @@
     },
     {
       "Route": "index.17syz0loi6.html",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6155,7 +6155,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6179,7 +6179,7 @@
     },
     {
       "Route": "index.17syz0loi6.html.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6200,7 +6200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6232,7 +6232,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6255,7 +6255,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6287,7 +6287,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6308,7 +6308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6324,7 +6324,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\1dpm1p8bmc-17syz0loi6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6345,7 +6345,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6369,7 +6369,7 @@
     },
     {
       "Route": "main.5a96f0f8b6a1e6e1.j4inkzrecm.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6392,7 +6392,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6432,7 +6432,7 @@
     },
     {
       "Route": "main.5a96f0f8b6a1e6e1.j4inkzrecm.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6453,7 +6453,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6477,7 +6477,7 @@
     },
     {
       "Route": "main.5a96f0f8b6a1e6e1.j4inkzrecm.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6498,7 +6498,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6530,7 +6530,7 @@
     },
     {
       "Route": "main.5a96f0f8b6a1e6e1.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6553,7 +6553,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6585,7 +6585,7 @@
     },
     {
       "Route": "main.5a96f0f8b6a1e6e1.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6606,7 +6606,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6622,7 +6622,7 @@
     },
     {
       "Route": "main.5a96f0f8b6a1e6e1.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\68gbawzq38-j4inkzrecm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6643,7 +6643,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6667,7 +6667,7 @@
     },
     {
       "Route": "polyfills.f91a65f870354b2e.hgnk4s5st6.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6690,7 +6690,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6730,7 +6730,7 @@
     },
     {
       "Route": "polyfills.f91a65f870354b2e.hgnk4s5st6.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6751,7 +6751,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6775,7 +6775,7 @@
     },
     {
       "Route": "polyfills.f91a65f870354b2e.hgnk4s5st6.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6796,7 +6796,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6828,7 +6828,7 @@
     },
     {
       "Route": "polyfills.f91a65f870354b2e.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6851,7 +6851,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6883,7 +6883,7 @@
     },
     {
       "Route": "polyfills.f91a65f870354b2e.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6904,7 +6904,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6920,7 +6920,7 @@
     },
     {
       "Route": "polyfills.f91a65f870354b2e.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\e26gytw22k-hgnk4s5st6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6941,7 +6941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6965,7 +6965,7 @@
     },
     {
       "Route": "runtime.1a36a8c8176a89a5.iussd3dflw.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6988,7 +6988,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7028,7 +7028,7 @@
     },
     {
       "Route": "runtime.1a36a8c8176a89a5.iussd3dflw.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7049,7 +7049,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7073,7 +7073,7 @@
     },
     {
       "Route": "runtime.1a36a8c8176a89a5.iussd3dflw.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7094,7 +7094,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7126,7 +7126,7 @@
     },
     {
       "Route": "runtime.1a36a8c8176a89a5.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7149,7 +7149,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7181,7 +7181,7 @@
     },
     {
       "Route": "runtime.1a36a8c8176a89a5.js",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7202,7 +7202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7218,7 +7218,7 @@
     },
     {
       "Route": "runtime.1a36a8c8176a89a5.js.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\r0mkng0d6m-iussd3dflw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7239,7 +7239,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7263,7 +7263,7 @@
     },
     {
       "Route": "styles.e03f01a639544ed3.css",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7286,7 +7286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7318,7 +7318,7 @@
     },
     {
       "Route": "styles.e03f01a639544ed3.css",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\styles.e03f01a639544ed3.css",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\styles.e03f01a639544ed3.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7339,7 +7339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7355,7 +7355,7 @@
     },
     {
       "Route": "styles.e03f01a639544ed3.css.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7376,7 +7376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7400,7 +7400,7 @@
     },
     {
       "Route": "styles.e03f01a639544ed3.g7nve8g003.css",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7423,7 +7423,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7463,7 +7463,7 @@
     },
     {
       "Route": "styles.e03f01a639544ed3.g7nve8g003.css",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\wwwroot\\styles.e03f01a639544ed3.css",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\wwwroot\\styles.e03f01a639544ed3.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7484,7 +7484,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7508,7 +7508,7 @@
     },
     {
       "Route": "styles.e03f01a639544ed3.g7nve8g003.css.gz",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\Debug\\net9.0\\compressed\\eb74hemxa6-g7nve8g003.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7529,7 +7529,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 16:47:44 GMT"
+          "Value": "Thu, 06 Feb 2025 18:00:02 GMT"
         },
         {
           "Name": "Cache-Control",

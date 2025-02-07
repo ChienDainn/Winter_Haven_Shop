@@ -31,12 +31,18 @@ namespace Core.Specifications
 
         // Số lượng bản ghi tối đa cần lấy (Take dùng cho phân trang)
         public int Take { get; private set; }
+        // Cờ kiểm tra xem có áp dụng phân trang không
+
+        public bool IsPagingEnabled { get; private set; }
 
         // Số lượng bản ghi cần bỏ qua (Skip dùng cho phân trang)
         public int Skip { get; private set; }
 
-        // Cờ kiểm tra xem có áp dụng phân trang không
-        public bool IsPagingEnabled { get; private set; }
+
+
+
+
+
 
         // Thêm điều kiện Include để truy vấn dữ liệu liên quan
         protected void AddInclude(Expression<Func<T, object>> includeExpression)
@@ -61,7 +67,7 @@ namespace Core.Specifications
         {
             Skip = skip; // Gán số lượng bản ghi cần bỏ qua
             Take = take; // Gán số lượng bản ghi cần lấy
-            IsPagingEnabled = true; // Kích hoạt phân trang
+            IsPagingEnabled = true;
         }
     }
 }

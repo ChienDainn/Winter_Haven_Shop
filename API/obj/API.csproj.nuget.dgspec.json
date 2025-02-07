@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\API.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\API.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\API\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -108,14 +108,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Core\\Core.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,14 +173,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -201,8 +201,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet_Full\\skinet\\Core\\Core.csproj"
+              "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Skinet\\Winter_Haven_Shop\\Core\\Core.csproj"
               }
             }
           }
